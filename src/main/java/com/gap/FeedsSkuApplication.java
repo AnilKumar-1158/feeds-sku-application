@@ -12,7 +12,6 @@ public class FeedsSkuApplication {
 	public static void main(String[] args) {
 
 		System.out.println("Anil");
-
 		SpringApplication.run(FeedsSkuApplication.class, args);
 	}
 
