@@ -13,6 +13,8 @@ public class FeedsSkuApplication {
 
 		System.out.println("Anil");
 
+
+
 		SpringApplication.run(FeedsSkuApplication.class, args);
 	}
 
